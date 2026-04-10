@@ -93,7 +93,6 @@ Some of the key findings from the analysis include:
 This query calculates monthly revenue per product and measures growth compared to the prior month.
 
 ```sql
-```sql
 WITH A AS (
     SELECT
         product_id AS Products,
