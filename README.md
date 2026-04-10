@@ -23,9 +23,6 @@ The analysis was performed using **BigQuery (SQL)** for data processing and **Ta
 
 <img width="3834" height="2074" alt="image" src="https://github.com/user-attachments/assets/9b338d24-a267-4873-9c2d-acafcee0e61d" />
 
-### Overview Dashboard
-![Overview](images/dashboard.png)
-
 ---
 
 ## Project Goals
