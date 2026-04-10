@@ -17,6 +17,8 @@ The analysis was performed using **BigQuery (SQL)** for data processing and **Ta
 ## Tableau Dashboard
 [View the interactive Tableau dashboard](https://public.tableau.com/views/Portfolio-asj/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<img width="3834" height="2074" alt="image" src="https://github.com/user-attachments/assets/9b338d24-a267-4873-9c2d-acafcee0e61d" />
+
 ---
 
 ## Dashboard Preview
